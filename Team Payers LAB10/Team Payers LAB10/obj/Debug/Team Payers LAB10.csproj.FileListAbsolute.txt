@@ -1,0 +1,9 @@
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\bin\Debug\Team Payers LAB10.exe.config
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\bin\Debug\Team Payers LAB10.exe
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\bin\Debug\Team Payers LAB10.pdb
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\obj\Debug\Team Payers LAB10.csprojAssemblyReference.cache
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\obj\Debug\Team_Payers_LAB10.Form1.resources
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\obj\Debug\Team_Payers_LAB10.Properties.Resources.resources
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\obj\Debug\Team Payers LAB10.csproj.GenerateResource.cache
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\obj\Debug\Team Payers LAB10.exe
+I:\2020\ObjProg\Chap11\ProgProbls\Team Payers LAB10\Team Payers LAB10\obj\Debug\Team Payers LAB10.pdb
